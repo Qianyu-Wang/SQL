@@ -1,0 +1,6 @@
+# Hackerrank SQL challenges by MS SQL Server
+
+# Revising the Select Query 1
+select *
+from CITY
+where POPULATION > 100000 and COUNTRYCODE = "USA"
